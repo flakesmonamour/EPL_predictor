@@ -11,7 +11,7 @@ import streamlit as st
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.linear_model import LogisticRegression
 
-FEATURES_PATH = '/home/flakesmonamour/Documents/predictor/data/raw/English_premier_leagues_processed.csv'
+FEATURES_PATH = 'data/raw/English_premier_leagues_processed.csv'
 FEATURE_COLS = [
     'home_elo', 'away_elo', 'elo_diff',
     'home_form5', 'away_form5',
