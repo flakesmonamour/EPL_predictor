@@ -5,7 +5,7 @@ using Elo ratings and recent form, built from raw match data.
 
 ## Data
 
-`data/raw/E0.csv` — 2025/26 EPL season, 380 matches, from
+`..\data\raw\E0.csv` — 2025/26 EPL season, 380 matches, from
 [football-data.co.uk](https://www.football-data.co.uk/data.php).
 
 ## Notebook
